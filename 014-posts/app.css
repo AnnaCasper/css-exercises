@@ -37,4 +37,13 @@ img {
   margin-bottom: 20px;
 }
 
+.services {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  left: 0;  
+  overflow: hidden;
+  display: block;
+}
+
 /* Code Under This Line */
